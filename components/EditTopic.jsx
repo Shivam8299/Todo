@@ -48,4 +48,4 @@ function EditTopic({id, title, description}) {
   
 }
 
-export default EditTopic
+export  {EditTopic}
